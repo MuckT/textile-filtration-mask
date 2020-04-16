@@ -2,7 +2,7 @@
 Guide for making a textile filtration mask
 When these masks are being made by volunteers or in non-healthcare manufacturing facilities, those constructing the masksmust adhere to the principles of enhanced hand hygiene and social distancing as recommended by the CDC.
 
-This work is the result of a collaboration of experienced sewing enthusiasts, surgeons, infectious disease doctors, nurses, engineers,volunteers, and basic scientists from South Texas. The original mask design was based on a design from the Easy to Sew YouTubeChannel. 
+This work is the result of a collaboration of experienced sewing enthusiasts, surgeons, infectious disease doctors, nurses, engineers,volunteers, and basic scientists from South Texas. The original mask design was based on a design from the [Easy to Sew YouTube Channel](https://www.youtube.com/watch?v=FZ9L3wrkIJw "Easy to Sew - FACE MASK SEWING TUTORIAL | HOW TO MAKE FACE MASK WITH FILTER POCKET | HAND SEW FACE MASK TUTORIAL").
 
 Iterative design changes driven by input from subject matter experts increased the performance of the original design. This process improved the masks’ permeability characteristics and reduced wicking across the bridge of the nose and bottom of themask. 
 
